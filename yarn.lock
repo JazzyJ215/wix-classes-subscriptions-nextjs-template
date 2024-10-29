@@ -854,10 +854,10 @@ __metadata:
   linkType: hard
 
 "@wix/members@npm:^1.0.38":
-  version: 1.0.110
-  resolution: "@wix/members@npm:1.0.110"
+  version: 1.0.112
+  resolution: "@wix/members@npm:1.0.112"
   dependencies:
-    "@wix/members_authentication": 1.0.28
+    "@wix/members_authentication": 1.0.29
     "@wix/members_authorization": 1.0.6
     "@wix/members_badges": 1.0.34
     "@wix/members_custom-field": 1.0.7
@@ -866,19 +866,19 @@ __metadata:
     "@wix/members_member-to-member-block": 1.0.6
     "@wix/members_members": 1.0.45
     "@wix/members_user-member": 1.0.13
-  checksum: bf062c5c9653e907ac3cf5a31a6392bf3751fdb9b1724c838277bad608f48f341a45e5914486df6dc4328bd7ac6591e980904e217c57f25f5171d24727af95fb
+  checksum: a6692c321702c869e394d831f361e5da0d65ded3327442d34ddda01094413e849518306f12dc8ce695518f1fc2d0a0491a8d0a5908fcf999aa27841e66d83610
   languageName: node
   linkType: hard
 
-"@wix/members_authentication@npm:1.0.28":
-  version: 1.0.28
-  resolution: "@wix/members_authentication@npm:1.0.28"
+"@wix/members_authentication@npm:1.0.29":
+  version: 1.0.29
+  resolution: "@wix/members_authentication@npm:1.0.29"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.12.3
-  checksum: 025e4c99c2ab566ffd3027144a00ccd238bff7dfa9bf3ae100d1fe883719476181592c8e3db3e1bd0c4e9ca9f0ec93b8c1b1eab2aa49ac5ba0a2fa48b56a81b1
+  checksum: b5bd3e2453409b9aeb712d58a1cf5c50147cbb9cf6362bef985a17e1ef75da7524c608e4c95172659d6095457f8e1ce3bfc47aca83e401931da3ea5f3fbc7ec8
   languageName: node
   linkType: hard
 
